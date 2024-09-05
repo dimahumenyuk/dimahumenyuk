@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer)
 
-#Hello. I'm Dima Humenyuk. Front-end Developer. 12 years old.
+# Hello. I'm Dima Humenyuk. Front-end Developer. 12 years old.
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
