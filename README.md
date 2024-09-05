@@ -51,3 +51,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk2012&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk2012&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk2012" /></p>
 ![](https://github-readme-stats.vercel.app/api?username=dimahumenyuk2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimahumenyuk2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="dimahumenyuk2012" /></p>
+
