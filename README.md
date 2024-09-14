@@ -2,6 +2,8 @@
 
 # Hello. I'm Dima Humenyuk. Front-end Developer. 12 years old.
 
+  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="300"/>
+
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
