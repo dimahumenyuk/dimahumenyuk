@@ -45,7 +45,6 @@
   <a href="https://www.instagram.com/d.i.m.a_h.u.m.e.n.y.u.k"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
   <a href="https://www.facebook.com/profile.php?id=61562683131427"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
 </div>
-<br>
-<br>
-
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
