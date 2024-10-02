@@ -1,6 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer) <br>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=49F7E4&center=true&random=false&width=435&lines=Hello.I+am+Dima+Humenyuk.+Front-end+Developer.)
 # Hello. I'm Dima Humenyuk. Front-end Developer.
 
 
