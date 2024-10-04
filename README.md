@@ -47,6 +47,7 @@
 ## 🔖 My contacts
 
 <div class="contacts">
+    <a href="mailto:dimahumenyuk.dev@gmail.com"><img src="https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=email&logoColor=27A0D9" alt="email"></a>
     <a href="https://t.me/devlop_admin"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram"></a>
     <a href="https://www.instagram.com/d.i.m.a_h.u.m.e.n.y.u.k"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="instagram"></a>
     <a href="https://www.facebook.com/profile.php?id=61562683131427"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5" alt="facebook"></a>
