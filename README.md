@@ -47,9 +47,11 @@
 ## 🔖 My contacts
 
 <div class="contacts">
-  <a href="https://t.me/devlop_admin"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://www.instagram.com/d.i.m.a_h.u.m.e.n.y.u.k"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-  <a href="https://www.facebook.com/profile.php?id=61562683131427"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
+    <a href="https://t.me/devlop_admin"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram"></a>
+    <a href="https://www.instagram.com/d.i.m.a_h.u.m.e.n.y.u.k"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="instagram"></a>
+    <a href="https://www.facebook.com/profile.php?id=61562683131427"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5" alt="facebook"></a>
+    <a href="https://www.linkedin.com/in/dima-humenyuk-935a51326/"><img src="https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=1195F5" alt="linkedin"></a>
+    <a href="https://x.com/DimaHumenyukdev"><img src="https://img.shields.io/badge/-X-090909?style=for-the-badge&logo=X&logoColor=white" alt="x"></a>
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
