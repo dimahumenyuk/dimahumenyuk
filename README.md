@@ -23,28 +23,28 @@
 #### 🛠 - Hosting Services and Web Tools:
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### DevOps ♾️:
+#### ♾️ - DevOps:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Others 📂:
+#### 📂 - Others:
 
 
-### IDEs and Tools 🛠:
+#### 🛠 - IDEs and Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Social Engineery](https://img.shields.io/badge/Social_engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 💼 Now I learn
+#### 💼 Now I learn:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 
-## 📊 My Statistics
+#### 📊 My Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk2012&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk2012&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk2012" /></p>
 
-## 💬 My contacts
+#### 💬 My contacts
 
 <div class="contacts">
     <a href="mailto:dimahumenyuk.dev@gmail.com"><img src="https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=email&logoColor=27A0D9" alt="email"></a>
