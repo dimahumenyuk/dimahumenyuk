@@ -1,3 +1,4 @@
+<img align="right" src="logo.png"  height="30" alt="dimahumenyuk2012" />
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer)
 
 # Hello. I'm Dima Humenyuk. Front-end Developer.
