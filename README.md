@@ -41,8 +41,8 @@
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 
 ### 📊 My Statistics
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk2012&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk2012&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk2012" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk" /></p>
 
 ### 💬 My contacts
 
