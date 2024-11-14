@@ -3,7 +3,7 @@
 # Hello. I'm Dima Humenyuk. Front-end Developer.
 
 
-  <img align="right" src="https://visitcount.itsvg.in/api?id=dimahumenyuk2012&icon=7&color=9"  height="30" alt="dimahumenyuk2012" />
+  <img align="right" src="https://visitcount.itsvg.in/api?id=dimahumenyuk&icon=7&color=9"  height="30" alt="dimahumenyuk views profile" />
 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
