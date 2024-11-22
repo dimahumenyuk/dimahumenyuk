@@ -7,11 +7,17 @@
 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
-### 💻 - Frontend:
+### 💻 - Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+### CSS Framework/Library/Pre-processors
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+
+
+### JS Framework/Library
 
 ### ⚙️ - Backend:
 
@@ -85,21 +91,6 @@
 
 
 
-
-
-
-## Tech Stack 💻
-#### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-
-#### JS Framework/Library
-
-#### CSS Framework/Library/Pre-processors
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
