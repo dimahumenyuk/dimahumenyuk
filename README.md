@@ -31,9 +31,10 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
 ### ♾️ - DevOps:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logo=git)
 
 ### 📂 - Others:
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 
 
 ### 🛠 - Design/Visual Tools:
@@ -80,19 +81,6 @@
 
 
 
-
-
-
-
-
-
-#### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-
-#### Backend
-
-#### CI/CD
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 
 #### Package Manager
 
