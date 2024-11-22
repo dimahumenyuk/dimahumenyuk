@@ -11,28 +11,26 @@
 ### 💻 - Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-### CSS Framework/Library/Pre-processors
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+### Frameworks:
 
-
-### JS Framework/Library
 
 ### ⚙️ - Backend:
 
 
 ### 💻 - Database:
 
-### Package Manager
+### Package Manager:
 
-### Version Control
+### Version Control:
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
-### Web Hosting
+### Web Hosting:
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
@@ -60,7 +58,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 📊 My Statistics
+### 📊 My Statistics:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk" /></p>
 
