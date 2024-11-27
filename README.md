@@ -62,17 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dimahumenyuk&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-
-
-
-``` java
-if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - Dima)
-```
 ### 💬 My contacts
 
 <div class="contacts">
