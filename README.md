@@ -60,7 +60,7 @@
 ### 🔥 Current GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk" /></p>
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dimahumenyuk&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dimahumenyuk&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
 
@@ -73,15 +73,6 @@ if (codeWorking){
         }
 // - Dima)
 ```
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-
-
 ### 💬 My contacts
 
 <div class="contacts">
