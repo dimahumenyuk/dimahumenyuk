@@ -57,7 +57,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 📊 My Statistics:
+### Current GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk" /></p>
 
@@ -93,17 +93,9 @@ if (codeWorking){
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
 
 ### Thanks for Visiting my GitHub Profile!
 
