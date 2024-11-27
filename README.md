@@ -95,7 +95,7 @@ if (codeWorking){
 
 
 ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dimahumenyuk&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 ### Thanks for Visiting my GitHub Profile!
 
