@@ -61,19 +61,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimahumenyuk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=dimahumenyuk&show_icons=true&locale=en&theme=tokyonight" alt="dimahumenyuk" /></p>
 
-### 💬 My contacts
 
-<div class="contacts">
-    <a href="mailto:dimahumenyuk.dev@gmail.com"><img src="https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=email&logoColor=27A0D9" alt="email"></a>
-    <a href="https://t.me/thee_dima/"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram"></a>
-    <a href="https://www.instagram.com/dima.humenyuk/"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="instagram"></a>
-    <a href="https://www.facebook.com/profile.php?id=61562683131427"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5" alt="facebook"></a>
-    <a href="https://www.linkedin.com/in/dima-humenyuk-935a51326/"><img src="https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=1195F5" alt="linkedin"></a>
-    <a href="https://x.com/dima_humenyuk/"><img src="https://img.shields.io/badge/-X-090909?style=for-the-badge&logo=X&logoColor=white" alt="x"></a>
-</div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
 
 
@@ -96,6 +84,23 @@ if (codeWorking){
 
 ## GitHub Streaks 🔥
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dimahumenyuk&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+
+### 💬 My contacts
+
+<div class="contacts">
+    <a href="mailto:dimahumenyuk.dev@gmail.com"><img src="https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=email&logoColor=27A0D9" alt="email"></a>
+    <a href="https://t.me/thee_dima/"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram"></a>
+    <a href="https://www.instagram.com/dima.humenyuk/"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="instagram"></a>
+    <a href="https://www.facebook.com/profile.php?id=61562683131427"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5" alt="facebook"></a>
+    <a href="https://www.linkedin.com/in/dima-humenyuk-935a51326/"><img src="https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=1195F5" alt="linkedin"></a>
+    <a href="https://x.com/dima_humenyuk/"><img src="https://img.shields.io/badge/-X-090909?style=for-the-badge&logo=X&logoColor=white" alt="x"></a>
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 
 ### Thanks for Visiting my GitHub Profile!
 
