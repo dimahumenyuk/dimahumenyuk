@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web-Developer)
 
 # Hello. I'm Dima Humenyuk. Front-end Developer.
 
